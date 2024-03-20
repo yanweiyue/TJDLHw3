@@ -1,5 +1,7 @@
 # 卷积神经网络(CNN)
 
+## 2053965 岳彦伟
+
 ## 问题描述：
 
 利用卷积神经网络，实现对MNIST 数据集的分类问题。
@@ -21,3 +23,5 @@ pytorch版本的卷积神经网络 需要补齐  self.conv1 中 nn.Conv2d( )  �
 pytorch 1.13.1+cu116
 
 torchvision 0.14.1
+
+tensorflow 1.15.0
